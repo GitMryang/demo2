@@ -3,5 +3,6 @@ pulic class Hello{
 		System.out.println("Hello world!");
 		System.out.println("Hello master!");
 		System.out.println("Hello hot-fix);
+		System.out.println("Hello Github!");
 	}
 }
